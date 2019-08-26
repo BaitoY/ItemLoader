@@ -168,3 +168,17 @@ build/tmp/sourceJar/MANIFEST.MF
 CNPC_SIS.iml
 gradle.properties
 gradle/wrapper/gradle-wrapper.properties
+build/tmp/extractAnnotationsJar/input4084709050095837181.jar
+build/tmp/extractAnnotationsJar/input5942259441964221703.jar
+build/tmp/extractAnnotationsShadowJar/input5424018910220032051.jar
+build/tmp/extractAnnotationsShadowJar/input5651122559464632817.jar
+build/tmp/reobfJar/reobf-default5167910164058317738.srg
+build/tmp/reobfJar/reobf-default9004669272607330779.srg
+build/tmp/reobfJar/reobf-extraLines6069329004461416189.srg
+build/tmp/reobfJar/reobf-extraLines816848060625633905.srg
+build/tmp/reobfShadowJar/reobf-default1060815402806848809.srg
+build/tmp/reobfShadowJar/reobf-default1661136187592459963.srg
+build/tmp/reobfShadowJar/reobf-extraLines3722648769900521002.srg
+build/tmp/reobfShadowJar/reobf-extraLines5879152263428344527.srg
+build/tmp/retromapReplacedMain/rangelog4292865491604138737.txt
+build/tmp/retromapReplacedMain/rangelog4469491444660261026.txt
