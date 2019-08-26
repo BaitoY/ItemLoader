@@ -11,7 +11,6 @@ import org.baito.forge.cnpcsis.config.Config;
 @Mod(
         modid = "itemloader",
         name = "Item Loader",
-        serverSideOnly = true,
         acceptableRemoteVersions = "*"
 )
 
