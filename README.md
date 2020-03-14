@@ -1,4 +1,4 @@
-# ItemLoader
+# ItemLoader for Custom NPCs
 
 Permission Node: **itemloader.operator**
 
